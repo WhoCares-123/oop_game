@@ -1,5 +1,4 @@
 // lib/main.dart
-import 'attack_behavior.dart';
 import 'game_character.dart';
 import 'sword_attack.dart';
 import 'magic_attack.dart';
